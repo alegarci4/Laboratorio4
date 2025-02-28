@@ -1,0 +1,14 @@
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.GeneratedMSBuildEditorConfig.editorconfig
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.AssemblyInfoInputs.cache
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.AssemblyInfo.cs
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.csproj.CoreCompileInputs.cache
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\bin\Debug\net8.0\Misión de Tony Stark.exe
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\bin\Debug\net8.0\Misión de Tony Stark.deps.json
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\bin\Debug\net8.0\Misión de Tony Stark.runtimeconfig.json
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\bin\Debug\net8.0\Misión de Tony Stark.dll
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\bin\Debug\net8.0\Misión de Tony Stark.pdb
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.dll
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\refint\Misión de Tony Stark.dll
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.pdb
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\Misión de Tony Stark.genruntimeconfig.cache
+C:\p1\Misión de Tony Stark\Misión de Tony Stark\obj\Debug\net8.0\ref\Misión de Tony Stark.dll

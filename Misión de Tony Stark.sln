@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misión de Tony Stark", "Misión de Tony Stark\Misión de Tony Stark.csproj", "{D40D7FEE-157B-46E3-9AE5-1148BA895EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40D7FEE-157B-46E3-9AE5-1148BA895EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40D7FEE-157B-46E3-9AE5-1148BA895EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40D7FEE-157B-46E3-9AE5-1148BA895EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40D7FEE-157B-46E3-9AE5-1148BA895EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
